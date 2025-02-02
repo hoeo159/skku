@@ -1,0 +1,4 @@
+11:Svendson:Tove:Borgvn 23:Sandnes
+1:Hansen:Ola:Timoteivn 10:Sandnes
+3:ab:Aa:Za:Stavanger
+3:Pettersen:Kari:Storgt 20:Stavanger

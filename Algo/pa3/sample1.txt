@@ -1,0 +1,12 @@
+Abc
+B
+Cow
+D
+Abc B 2.5
+Abc Cow 1.0
+B Cow 3.0
+B D -1.0
+Cow D 5.0
+D Abc 0.5
+D Cow -1.0
+3

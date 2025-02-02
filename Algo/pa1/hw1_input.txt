@@ -1,0 +1,8 @@
+4
+$
+P_Id:LastName:FirstName:Address:City*
+$
+11:Svendson:Tove:Borgvn 23:Sandnes
+3:ab:Aa:Za:Stavanger
+3:Pettersen:Kari:Storgt 20:Stavanger
+1:Hansen:Ola:Timoteivn 10:Sandnes
